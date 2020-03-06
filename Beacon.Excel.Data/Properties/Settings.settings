@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Beacon.Excel.Objects.AddInSettingsProvider" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="UserName" Provider="Beacon.Excel.Objects.AddInSettingsProvider" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Environment" Provider="Beacon.Excel.Objects.AddInSettingsProvider" Type="Beacon.Excel.Objects.Environments.DataEnvironment" Scope="User">
+      <Value Profile="(Default)">Prod</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
